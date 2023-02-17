@@ -1,3 +1,8 @@
+% The function displays the detail of PSO
+% 
+% @author Tylor Jaden(bilibiliUID:38263507)
+% @version 1.0
+% @since   2022-10-27
 function [population_x1,population_x2] = PSO(f,a,b)
 N = 30;
 population_x1 = [];

@@ -1,3 +1,8 @@
+% The program displays the detail of PSO
+% 
+% @author Tylor Jaden(bilibiliUID:38263507)
+% @version 1.0
+% @since   2022-10-27
 close all;
 clear;
 clc;
